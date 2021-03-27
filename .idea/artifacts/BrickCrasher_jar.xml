@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BrickCrasher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BrickCrasher_jar</output-path>
+    <root id="archive" name="BrickCrasher.jar">
+      <element id="module-output" name="BrickCrasher" />
+      <element id="extracted-dir" path="$USER_HOME$/CityEngine40/CityEngine.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
